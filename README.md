@@ -3,4 +3,4 @@
 day 1.
 
 - SVN
-- Git
+- LCY.
