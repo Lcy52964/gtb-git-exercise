@@ -1,3 +1,6 @@
-#I' learning Git!
+# I' learning Git!
 
 day 1.
+
+-SVN
+-Git
