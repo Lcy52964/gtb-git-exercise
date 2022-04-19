@@ -2,5 +2,5 @@
 
 day 1.
 
--SVN
--Git
+- SVN
+- Git
