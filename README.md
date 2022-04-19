@@ -1,2 +1,3 @@
-I' learning Git1
+#I' learning Git!
+
 day 1.
